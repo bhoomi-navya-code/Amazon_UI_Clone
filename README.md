@@ -5,7 +5,7 @@ A front-end recreation of Amazon-style-UI , Bulit it for luring forms a tutorial
 - css
 - html
 
-#📔 What does it do?
+# 📔What does it do?
 
 -Displays a shopping-style homepage
 -Uses navigation bars, product sections, buttons, and cards
