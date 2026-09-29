@@ -1,7 +1,7 @@
 # 🏬 Amazon_UI_Clone
 A front-end recreation of Amazon-style-UI , Bulit it for luring forms a tutorial about CSS, html, position and UI design
 
-# ⚙️<Technologies>
+# ⚙️Technologies
 - css
 - html
 
@@ -12,7 +12,7 @@ A front-end recreation of Amazon-style-UI , Bulit it for luring forms a tutorial
 -Recreates common e-commerce UI layouts
 
 
-# 📚 <What I Learned>
+# 📚 What I Learned
 - CSS Flexbox/Grid
 - UI management
 
@@ -20,8 +20,8 @@ A front-end recreation of Amazon-style-UI , Bulit it for luring forms a tutorial
 Created as a learning exercise based on a tutorial. 
 Amazon is used as the design reference; this is not an official Amazon project.
 
-on the YouTube video learn HTML form -https://youtu.be/HcOc7P5BMi4?si=6VjEQtMPhBCFHyav
-on the YouTube video learn CSS form - https://youtu.be/ESnrn1kAD4E?si=8H4ZBjSTdKsnTbIm
+- on the YouTube video learn HTML form (https://youtu.be/HcOc7P5BMi4?si=6VjEQtMPhBCFHyav)
+- on the YouTube video learn CSS form ( https://youtu.be/ESnrn1kAD4E?si=8H4ZBjSTdKsnTbIm )
 
 
 
