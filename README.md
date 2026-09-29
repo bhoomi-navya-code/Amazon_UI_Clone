@@ -7,9 +7,9 @@ A front-end recreation of Amazon-style-UI , Bulit it for luring forms a tutorial
 
 # 📔What does it do?
 
--Displays a shopping-style homepage
--Uses navigation bars, product sections, buttons, and cards
--Recreates common e-commerce UI layouts
+- Displays a shopping-style homepage
+- Uses navigation bars, product sections, buttons, and cards
+- Recreates common e-commerce UI layouts
 
 
 # 📚 What I Learned
